@@ -1,0 +1,4 @@
+A new file named hello.txt has been created to show that any change made to this file will be saved upon the termination of the program. This version of the program supporst command/edit mod
+de, text wraping, keyword coloring, undo/redo in command mode, and etc.
+A new line has been added to show undo and redo mode.
+Another line has been added.
